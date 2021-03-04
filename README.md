@@ -1,2 +1,2 @@
-# DescriptiveStatistics
-Curso completo de estadística Descriptiva
+# Descriptive Statistics
+Complete Statistics Descriptive Course
